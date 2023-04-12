@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - javascript
 > ES6
 > Framework javascript
+- Struktur data dasar
 - PHP prameworks
 - interview
 - vlogs
